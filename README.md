@@ -3,9 +3,9 @@
 ### En unity tutorial för att lättare skapa ditt första spel
 
 ## Inehåll
-- innehåll
-- gratis resurser
+- bra tutorials
 - skapa första spelet
+- gratis resurser
 - gör egna modeller
 - ljud
 - menyer och scener
